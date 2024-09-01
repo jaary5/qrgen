@@ -1,5 +1,10 @@
 # qrgen
 
+## Interface
+
+![Interface-1 Screenshot](static/images/SS1.jpg)
+![Interface-1 Screenshot](static/images/SS2.jpg)
+
 
 ## Overview
 
