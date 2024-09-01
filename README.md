@@ -115,3 +115,6 @@ The UI is designed to be simple and responsive:
 3. **Open your web browser and go to http://127.0.0.1:5000/ to use the QR code generator**.
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
