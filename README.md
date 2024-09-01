@@ -1,8 +1,8 @@
-# QR Code Generator
+# qrgen
 
 ## Overview
 
-The QR Code Generator Web App is a simple yet powerful tool that allows users to generate and download QR codes for any URL they input. Built using Flask, a lightweight Python web framework, this project demonstrates fundamental web development concepts, including handling user input, generating dynamic content, and managing static files. The app also showcases the use of external libraries and tools to create a fully functional web application.
+The qrgen is a QR Code Generator Web App is a simple yet powerful tool that allows users to generate and download QR codes for any URL they input. Built using Flask, a lightweight Python web framework, this project demonstrates fundamental web development concepts, including handling user input, generating dynamic content, and managing static files. The app also showcases the use of external libraries and tools to create a fully functional web application.
 
 ## Technologies Used
 
@@ -135,3 +135,4 @@ Potential enhancements include:
 This QR Code Generator Web App illustrates basic web development with Flask. It covers user input handling, dynamic content generation, and static file management. The project is designed to be easy to use and provides a foundation for further development and feature expansion.
 
 Feel free to explore the code and contribute to improving the application. Happy coding!
+
