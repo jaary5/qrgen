@@ -1,16 +1,6 @@
-# Treat Python files as text
 *.py text
-
-# Treat CSS files as text
-*.css text
-
-# Optionally handle other common file types
 *.html text
-*.js text
+*.css text
 *.md text
-
-# Ensure binary files are correctly identified
 *.png binary
 *.jpg binary
-*.gif binary
-*.pdf binary
