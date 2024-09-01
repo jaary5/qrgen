@@ -15,7 +15,6 @@
 
 - **HTML**: Provides the structure of the web pages.
 - **CSS**: Styles the appearance of the application.
-- **Bootstrap**: Enhances the design with a responsive layout.
 - **Python**: Serves as the primary programming language for backend development.
 - **Flask**: A Python framework used to build the web application.
 - **Jinja**: A templating engine used to generate dynamic HTML content.
