@@ -1,19 +1,24 @@
+/* Apply background image to the whole page */
 body {
+    background: url('/static/images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
-    margin: 0;
 }
 
 .container {
     text-align: center;
-    background: white;
-    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background for better readability */
+    padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 800px;
+    margin: auto;
 }
 
 input[type="text"] {
@@ -41,34 +46,8 @@ img {
     margin-top: 20px;
 }
 
-
-
-
-
-
-/* Apply background image to the whole page */
-body {
-    background: url('/static/images/background.jpg') no-repeat center center fixed;
-    background-size: cover;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-/* Adjust container styles if needed */
-.container {
-    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background for better readability */
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    max-width: 800px;
-    margin: auto;
-}
-
-
 @media (max-width: 768px) {
     body {
         background-position: top center;
-        background-size: cover;
     }
 }
